@@ -1,0 +1,23 @@
+{
+  "name": "11-mario-fork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zfbpb/testms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zfbpb/testms/issues"
+  },
+  "homepage": "https://github.com/zfbpb/testms#readme",
+  "devDependencies": {
+    "is-docker": "^3.0.0"
+  }
+}
